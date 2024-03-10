@@ -12,6 +12,7 @@
   <modules>
     <module>Generics</module>
     <module>FunctionalProgramming</module>
+    <module>Reflection</module>
   </modules>
 
   <properties>
